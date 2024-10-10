@@ -1,0 +1,21 @@
+.leftcontainer{
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding:15px;
+    min-height: 85vh;
+    border-radius: 20px;
+    /* max-width: 50vh; */
+    margin: 3% 0px;
+    height: 91vh;
+    overflow: auto;
+    scrollbar-width: thin;
+}
+
+.rightcontainer{
+    /* background-color: white; */
+    /* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
+    padding:15px;
+    min-height: 80vh;
+    /* max-width: 50vh; */
+    margin: 3% 0px;
+}

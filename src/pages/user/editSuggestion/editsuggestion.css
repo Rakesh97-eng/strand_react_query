@@ -1,0 +1,29 @@
+.editsuggestioncontainer{
+    width: 400px;
+    margin: auto;
+    margin-top: 15%;
+    /* border: 1px solid grey; */
+    padding: 15px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+
+}
+
+.editsuggestionoption{
+display: flex;
+justify-content: center;
+margin: 5% 0px;
+gap: 6px;
+}
+
+.actionbtncontainer{
+    background-color: #EEEEEE;
+    margin: 0px 5px;
+    padding: 4px;
+    cursor: pointer;
+   
+}
+
+.editsuggestionfillsection{
+    display: flex;
+    margin: 5% 0px;
+}

@@ -1,0 +1,10 @@
+.querybutton{
+    /* background: linear-gradient(#4A5568, #718096); */
+    background: linear-gradient(90deg, #4A5568 0%, #718096 93%);
+    cursor: pointer;
+    border: none;
+    padding: 5px 12px;
+    border-radius: 8px;
+    color: white;
+
+}

@@ -1,0 +1,5 @@
+.suggestioncontentbtn{
+    display: flex;
+    gap: 5px;
+    margin: auto;
+}

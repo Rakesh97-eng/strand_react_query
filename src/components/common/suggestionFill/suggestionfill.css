@@ -1,0 +1,12 @@
+.suggestioninput{
+    width: 100%;
+    /* height: 78%; */
+    padding: 4px;
+    border: none;
+    outline: none;
+    background: #eeeeee;
+}
+
+.suggestioninput:focus{
+    border: #7e7474 1px solid;
+}
